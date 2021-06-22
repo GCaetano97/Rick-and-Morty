@@ -1,5 +1,30 @@
-.App {
+
+/* .App {
   text-align: center;
+  background-image: url(heroBackground.jpg);
+  background-position: center;
+  height: 60vh;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: #000 10px 2px ;
+}
+
+.Text {
+  margin: 0;
+  color: #fff;
+}
+
+.SpanStyle h1 {
+  font-size: 3rem;
+}
+.SpanStyle h3 {
+  font-size: 1.5rem;
+}
+
+.SpanStyle {
+  margin: 0;
 }
 
 .App-logo {
@@ -35,4 +60,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
